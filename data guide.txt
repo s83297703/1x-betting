@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/ymyu8",
+      "title": "1x betting 1",
+        "text_Content": "1X betting is a type of sports betting that involves wagering on a single outcome of a sporting event, specifically a win for the home team or a draw. The term “1X” stands for “1 times the stake”, meaning that if the bettor places a $100 wager and their prediction is correct, they will win $100 in return.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/ymI0k",
+      "title": "1x betting 2",
+        "text_Content": "1X betting is a popular form of sports betting due to its simplicity and the relative equality of the odds. Unlike other forms of betting, such as point spread betting or moneyline betting, 1X betting eliminates the need to predict the margin of victory or defeat. This can make 1X betting an attractive option for beginners or those who are new to sports betting, as it reduces the complexity of the betting process and allows bettors to focus on the outcome of the event itself.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/ymUM7",
+      "title": "1x betting 3",
+        "text_Content": "However, it’s important to note that 1X betting also has its own unique set of challenges and risks. For example, the odds for a 1X bet may be lower than those offered for other types of bets, meaning that bettors may receive a lower return on their investment if their prediction is correct. Additionally, the potential for a draw outcome means that 1X betting is inherently more unpredictable than other forms of betting, and as such, may carry a higher risk for the bettor.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/ymCqO",
+      "title": "1x betting 4",
+        "text_Content": "When it comes to placing a 1X bet, it’s important to consider several key factors before making a wager. These include the strength of the teams involved, their recent form and performance, the conditions of the event, and any relevant injuries or suspensions. By considering these factors, bettors can make more informed decisions and increase their chances of making a successful 1X bet.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/ym5dg",
+      "title": "1x betting 5",
+        "text_Content": "It’s also important to keep in mind that sports betting is a form of gambling, and as such, it carries with it a certain level of risk. Before making a wager, it’s important to set a budget for yourself and stick to it, as well as to bet responsibly and not let your emotions guide your decisions. Additionally, it’s always a good idea to do your research and familiarize yourself with the rules and regulations of sports betting in your jurisdiction.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/ymoAd",
+      "title": "1x betting 6",
+        "text_Content": "In conclusion, 1X betting can be a simple and straightforward way to get involved in sports betting, and can be a great option for beginners or those who prefer a more straightforward betting experience. However, it’s important to understand the challenges and risks associated with this type of betting,",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/ymFb6",
+      "title": "1x betting 7",
+        "text_Content": "and to approach it with caution and a well-informed strategy. With the right approach and a little bit of luck, 1X betting can be a fun and potentially profitable way to enjoy your favorite sporting events.",
+        "text_Content_1": ""
 
 
 
